@@ -6,4 +6,8 @@ Built using React.js, Vite and Tailwind CSS
 
 ## Commands:
 
-npm run dev
+To start
+
+### `npm run dev`
+
+Created by Laurids Hieden
